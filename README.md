@@ -1,33 +1,33 @@
 <p align="center">
   <a href="https://github.com/mubashar-nouman">
-    <img src="https://github.com/mubashar-nouman/mubashar-nouman/blob/main/github-header.png" alt="Mubashar Nouman GitHub Header" width="100%">
+    <img src="https://mubasharnouman.com/mine.jpg" alt="Mubashar Nouman GitHub Header" width="10%">
   </a>
 </p>
 
 <h1 align="center">Hi, I'm Mubashar Nouman 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Full-Stack Developer | AI & Automation Developer
+  Full Stack Engineer | AI-Powered SaaS | Next.js, Node.js, Python
 </h3>
 
 <p align="center">
   <a href="https://github.com/mubashar-nouman">
     <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Next.js+%26+Node.js+Developer;Python+%26+FastAPI+Developer;AI+%26+LLM+Integration+Specialist;Automation+Developer&font=Roboto&size=24&duration=3000&pause=700&center=true&width=650&height=50&color=0A66C2"
+      src="https://readme-typing-svg.demolab.com?lines=I+build+AI+products+that+actually+ship;Next.js+%26+Node.js+Developer;Python+%26+FastAPI+Developer;LLM+Integrations+%26+RAG+Pipelines;SaaS+from+Zero+to+Production&font=Roboto&size=24&duration=3000&pause=700&center=true&width=650&height=50&color=0A66C2"
       alt="Typing SVG"
     />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://mubasharnouman.com/">
+    <img src="https://img.shields.io/badge/Portfolio-mubasharnouman.com-1A3A7A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/mubashar-nouman/">
     <img src="https://img.shields.io/badge/LinkedIn-Mubashar%20Nouman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mubashirrnouman@gmail.com">
     <img src="https://img.shields.io/badge/Email-mubashirrnouman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/mubashar_nouman/">
-    <img src="https://img.shields.io/badge/Instagram-@mubashar__nouman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
@@ -35,52 +35,52 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineer with **4+ years of experience** building modern, scalable, and user-focused web applications.
+I am a Software Engineer with **3+ years of experience** building AI-powered SaaS products, taking them from a blank repo to something people pay for.
 
-I specialize in full-stack development using technologies such as **Next.js, React, Node.js, MongoDB, Supabase, Python, and FastAPI**. I also work on **AI-powered applications, LLM integrations, workflow automation, and intelligent SaaS products**.
+Most of my work sits where **LLMs meet real business data**: support agents grounded in live order records, resume-to-job matching built on embeddings and ranked by an LLM, RAG pipelines that cite the document they answered from. The model call is rarely the hard part. Everything around it decides whether the output can be trusted.
 
-* 💼 Working as a **Software Engineer at Pyflow Labs**
-* 🎓 Bachelor's degree in **Computer Science from UET Lahore**
-* 📜 MERN Stack certified by **Meta**
-* 🚀 Experienced in building full-stack SaaS applications
-* 🤖 Building AI-powered applications using LLM APIs
-* ⚙️ Interested in AI automation, APIs, and intelligent workflows
-* 🌱 Currently expanding my knowledge in AI, machine learning, and scalable system design
-* 🤝 Open to freelance projects, collaborations, and innovative product ideas
-* 📍 Based in Lahore, Pakistan
+I also build the unglamorous layer that turns a demo into a product: subscription billing, multi-tenant auth, usage limits, and third-party integrations that keep working when the API on the other end changes.
+
+* 💼 Software Engineer at **Pyflow Labs**
+* 🎓 Bachelor's in **Computer Science, UET Lahore**
+* 🚀 Shipping full-stack SaaS with **Next.js, Node.js, Python and PostgreSQL**
+* 🤖 Building on **OpenAI and Gemini APIs**, RAG pipelines and vector search
+* 🌱 Currently going deeper into machine learning and scalable system design
+* 🤝 Open to remote roles, freelance builds and collaborations
+* 📍 Lahore, Pakistan, working across US and EU hours
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui" alt="Frontend Technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Technologies">
 </p>
 
-### Backend Development
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" alt="Backend Technologies">
 </p>
 
-### Databases and Backend Services
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,mysql" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,mysql" alt="Databases">
 </p>
 
-### AI, Automation and APIs
+### AI and Automation
 
 <p>
   <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration">
-  <img src="https://img.shields.io/badge/AI%20Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Automation">
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-1A3A7A?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Pipelines">
+  <img src="https://img.shields.io/badge/Vector%20Search-E8642A?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector Search">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
 </p>
 
-### Development Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,linux" alt="Development Tools">
@@ -88,73 +88,50 @@ I specialize in full-stack development using technologies such as **Next.js, Rea
 
 ---
 
-## 🚀 What I Build
+## 🌟 Featured Work
 
-* Full-stack SaaS applications
-* AI-powered web applications
-* LLM-integrated platforms
-* AI chatbot systems
-* Workflow automation solutions
-* REST APIs using FastAPI and Node.js
-* Job board platforms
-* Marketplace applications
-* Admin dashboards
-* Authentication and role-based access systems
-* Database-driven web applications
-* Responsive and modern user interfaces
+### 🤖 [ZygenAI](https://zygenai.com/) — AI Support Agents for Marketplace Sellers
 
----
+Answers buyer messages automatically using live order data, in the seller's own voice, in under 30 seconds.
 
-## 🌟 Featured Project Experience
+* Replies grounded in real tracking and delivery records rather than guesswork
+* eBay integration over OAuth with orders syncing every two minutes
+* Escalation rules routing disputes and refunds to a human
+* Subscription billing and per-store analytics
 
-### 🤖 AI Chatbot Generator
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `OpenAI API` `Stripe`
 
-A platform that allows users to create and customize AI-powered chatbots using LLM APIs.
+### 📄 [Support Desk AI](https://support-desk-ai-eight.vercel.app/) — RAG Document Assistant
 
-**Key areas:**
+Ask questions about your own documents and read the source beside the answer instead of trusting it blind.
 
-* Custom chatbot configuration
-* LLM API integration
-* Conversation management
-* User authentication
-* Embeddable chatbot interfaces
+* Chunking and embedding pipeline retrieving only the passages needed to answer
+* Answers cited back to their source document
+* Ingestion for TXT, MD, CSV, JSON, LOG and PDF
+* Split-pane workspace pairing document with assistant
 
-### 📄 AI-Based Patent Generator
+`Python` `FastAPI` `Gemini API` `Vector DB`
 
-An AI-powered application that assists users in preparing structured patent-related content.
+### 📊 [Clear Sky Co](https://www.clearskyco.com.au/) — Practice Analytics for Health Clinics
 
-**Key areas:**
+Turns raw practice data into the three numbers that decide profitability.
 
-* AI-generated document content
-* Prompt engineering
-* Structured form workflows
-* Document management
-* Secure user accounts
+* One-click Cliniko integration syncing appointment and billing data
+* Utilisation, revenue per clinician and margin tracked over time
+* Per-clinician breakdown against targets
 
-### 💼 Demystifyd Job Platform
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Cliniko API`
 
-An extensive job board application designed to improve job discovery and application workflows.
+### 🧠 [MX Bot](https://mxbot-frontend.vercel.app/) — One Interface for Every LLM
 
-**Key areas:**
+Single chat interface routing to multiple model providers, removing the overhead of separate integrations and API keys.
 
-* Job search and filtering
-* User profiles
-* Job aggregation
-* Saved jobs
-* Application management
-* Responsive dashboards
+* Per-conversation model switching, secure API key handling
+* Persistent history with real-time streamed responses
 
-### 🚚 WorkFundFreight
+`Next.js` `Node.js` `MongoDB` `Express` `Redux`
 
-A web-based platform developed to support freight and business-related workflows.
-
-**Key areas:**
-
-* Full-stack application development
-* User and role management
-* Database integration
-* Business workflow automation
-* API development
+> Also built: an AI chatbot generator with embeddable widgets, an AI patent drafting tool, a screenplay marketplace, and a beat marketplace with a tournament module.
 
 ---
 
@@ -176,74 +153,39 @@ A web-based platform developed to support freight and business-related workflows
 <p align="center">
   <img
     width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mubashar-nouman&theme=algolia"
+    src="https://streak-stats.demolab.com/?user=mubashar-nouman&theme=algolia"
     alt="Mubashar Nouman GitHub Streak"
   />
 </p>
 
----
-
-## 📈 GitHub Contributions
-
-<h4 align="center">Isometric view of my GitHub contributions</h4>
-
 <p align="center">
   <img
     width="900"
-    src="https://github.com/mubashar-nouman/mubashar-nouman/raw/main/profile-3d-contrib/profile-night-green.svg"
+    src="https://raw.githubusercontent.com/mubashar-nouman/mubashar-nouman/main/profile-3d-contrib/profile-night-green.svg"
     alt="3D GitHub Contribution Graph"
   />
 </p>
 
 ---
 
-## 📌 GitHub Metrics
+## 📫 Get In Touch
 
 <p align="center">
-  <img
-    width="700"
-    src="https://github.com/mubashar-nouman/mubashar-nouman/raw/main/github-metrics.svg"
-    alt="Mubashar Nouman GitHub Metrics"
-  />
-</p>
-
----
-
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=mubashar-nouman&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-      alt="Mubashar Nouman GitHub Trophies"
-    />
+  <a href="https://mubasharnouman.com/">
+    <img src="https://img.shields.io/badge/Portfolio-See%20my%20work-1A3A7A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mubashar-nouman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mubashirrnouman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/mubashar_nouman/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
   <a href="https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ">
-    <img src="https://img.shields.io/badge/YouTube-Visit%20my%20channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
----
-
 <p align="center">
-  <sub>Profile Views</sub>
-  <br>
   <img
     src="https://komarev.com/ghpvc/?username=mubashar-nouman&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Profile Views"
@@ -251,5 +193,5 @@ A web-based platform developed to support freight and business-related workflows
 </p>
 
 <p align="center">
-  <strong>Thanks for visiting my profile!</strong>
+  <strong>Thanks for visiting. If something here is useful to you, let's talk.</strong>
 </p>
